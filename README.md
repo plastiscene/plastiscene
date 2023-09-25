@@ -10,11 +10,11 @@
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
 <img width="100%" alt="Imagem Capa" src="https://i.imgur.com/F4TRna7.jpg"/>
-<br />
-  
-# Bio
+
+# Hello there, welcome to my Github profile! 👋
+
+## Bio
 My name is Tomás Freitas, a passionate Informatics Engineering student at Instituto Superior de Engenharia de Coimbra, specializing in Software Development. I'm originally from Guimarães, but currently I call Coimbra my home.
 
 From a young age, I have been immersed in the world of technology, video games, and music. My journey began with crafting small musical pieces in the PS2 game "Music 3000," but it didn't take long for me to dive deeper into other interests. At the age of 13, my venturing into the world of DJing started and I took my first steps into programming, particularly in C#. 
