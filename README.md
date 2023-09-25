@@ -11,7 +11,8 @@
 -->
 
 <img width="100%" alt="Imagem Capa" src="https://i.imgur.com/F4TRna7.jpg"/>
-
+<br />
+<br />
 # Hello there, welcome to my Github profile! 👋
 
 ## Bio
