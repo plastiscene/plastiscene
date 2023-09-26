@@ -6,7 +6,7 @@
 
 I'm Tomás Freitas, an Informatics Engineering student at Instituto Superior de Engenharia de Coimbra, specializing in Software Development. I've always loved technology, video games and music. My journey began early with crafting small musical pieces in the PS2 game "Music 3000" and at 13, I started DJing and learning C# programming.
 
-My ultimate goal is to combine my passions to create immersive experiences for artists while blending technology, music and programming.
+I aspire to combine my passions and create immersive experiences for artists, while blending technology, music, and programming.
 
 ## Academic Knowledge:
 
