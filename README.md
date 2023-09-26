@@ -1,20 +1,36 @@
-<!-- Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <img width="100%" alt="Imagem Capa" src="https://i.imgur.com/gR8XsMs.jpg"/>
 
 # Hello there 🙌
 
-## Bio
-My name is Tomás Freitas, currently an Informatics Engineering student at Instituto Superior de Engenharia de Coimbra, specializing in Software Development. From a young age, I have been immersed in the world of technology, video games and music. My journey began with crafting small musical pieces in the PS2 game "Music 3000" but it didn't take long for me to dive deeper into other interests. At the age of 13, my venturing into the world of DJing started and I took my first steps into programming, particularly in C#. 
+## Bio:
 
-My ultimate goal is to unite my various passions and talents to create immersive visual experiences that enhance and expand the creative freedom of artists. My dedication to merging technology, music, and programming makes me very excited to dive in the field of software development.
+I'm Tomás Freitas, an Informatics Engineering student at Instituto Superior de Engenharia de Coimbra, specializing in Software Development. I've always loved technology, video games and music. My journey began early with crafting small musical pieces in the PS2 game "Music 3000" and at 13, I started DJing and learning C# programming.
+
+My ultimate goal is to combine my passions to create immersive experiences for artists while blending technology, music and programming.
+
+## Academic Knowledge:
+
+<div style="display: inline_block"><br>
+<img alt="C#" src="https://img.shields.io/badge/c%23-%230D1117?style=for-the-badge&logo=csharp&logoColor=orange"/>
+<img alt="C" src="https://img.shields.io/badge/c-%230D1117?style=for-the-badge&logo=C&logoColor=orange"/>
+<img alt="C++" src="https://img.shields.io/badge/c%2B%2B-%230D1117?style=for-the-badge&logo=C%2B%2B&logoColor=orange"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%230D1117?style=for-the-badge&logo=python&logoColor=yellow"/>
+<img alt="HTML" src="https://img.shields.io/badge/html-%230D1117?style=for-the-badge&logo=html5&logoColor=blue"/>
+<img alt="CSS" src="https://img.shields.io/badge/css-%230D1117?style=for-the-badge&logo=css3&logoColor=blue"/>
+<img alt="JavaS" src="https://img.shields.io/badge/javascript-%230D1117?style=for-the-badge&logo=javascript&logoColor=blue"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%230D1117?style=for-the-badge&logo=java&logoColor=yellow"/>
+</div>
+
+## In the field / Gained through experience:
+
+<div style="display: inline_block"><br>
+<img alt="Ableton Live" src="https://img.shields.io/badge/ableton%20live-%230D1117?style=for-the-badge&logo=abletonlive&logoColor=white"/>
+<img alt="Traktor" src="https://img.shields.io/badge/Traktor-%230D1117?style=for-the-badge&logoColor=grey"/>
+<img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-%230D1117?style=for-the-badge&logo=adobepremierepro&logoColor=purple"/>
+<img alt="Fujitsu" src="https://img.shields.io/badge/English%20Customer%20Support%20%40%20Fujitsu-%230D1117?style=for-the-badge&logo=fujitsu&logoColor=red"/>
+</div>
+
+
+
+
+
