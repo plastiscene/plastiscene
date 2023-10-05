@@ -19,6 +19,7 @@ I aspire to combine my passions and create immersive experiences for artists, wh
 <img alt="CSS" src="https://img.shields.io/badge/css-%230D1117?style=for-the-badge&logo=css3&logoColor=blue"/>
 <img alt="JavaS" src="https://img.shields.io/badge/javascript-%230D1117?style=for-the-badge&logo=javascript&logoColor=blue"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%230D1117?style=for-the-badge&logo=java&logoColor=yellow"/>
+<img alt="NetLogo" src="https://img.shields.io/badge/NetLogo-%230D1117?style=for-the-badge&logoColor=grey"/>
 </div>
 
 ## In the field / Gained through experience:
