@@ -18,7 +18,6 @@ I aspire to combine my passions and create immersive experiences for artists, wh
 <img alt="HTML" src="https://img.shields.io/badge/html-%230D1117?style=for-the-badge&logo=html5&logoColor=blue"/>
 <img alt="CSS" src="https://img.shields.io/badge/css-%230D1117?style=for-the-badge&logo=css3&logoColor=blue"/>
 <img alt="JavaS" src="https://img.shields.io/badge/javascript-%230D1117?style=for-the-badge&logo=javascript&logoColor=blue"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%230D1117?style=for-the-badge&logo=java&logoColor=yellow"/>
 <img alt="NetLogo" src="https://img.shields.io/badge/NetLogo-%230D1117?style=for-the-badge&logoColor=grey"/>
 </div>
 
@@ -28,7 +27,6 @@ I aspire to combine my passions and create immersive experiences for artists, wh
 <img alt="Ableton Live" src="https://img.shields.io/badge/ableton%20live-%230D1117?style=for-the-badge&logo=abletonlive&logoColor=white"/>
 <img alt="Traktor" src="https://img.shields.io/badge/Traktor-%230D1117?style=for-the-badge&logoColor=grey"/>
 <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-%230D1117?style=for-the-badge&logo=adobepremierepro&logoColor=purple"/>
-<img alt="Fujitsu" src="https://img.shields.io/badge/English%20Customer%20Support%20%40%20Fujitsu-%230D1117?style=for-the-badge&logo=fujitsu&logoColor=red"/>
 </div>
 
 
