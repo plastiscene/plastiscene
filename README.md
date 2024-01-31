@@ -11,7 +11,6 @@ I aspire to combine my passions and create immersive experiences for artists, wh
 ## Academic Knowledge:
 
 <div style="display: inline_block"><br>
-<img alt="C#" src="https://img.shields.io/badge/c%23-%230D1117?style=for-the-badge&logo=csharp&logoColor=orange"/>
 <img alt="C" src="https://img.shields.io/badge/c-%230D1117?style=for-the-badge&logo=C&logoColor=orange"/>
 <img alt="C++" src="https://img.shields.io/badge/c%2B%2B-%230D1117?style=for-the-badge&logo=C%2B%2B&logoColor=orange"/>
 <img alt="Python" src="https://img.shields.io/badge/python-%230D1117?style=for-the-badge&logo=python&logoColor=yellow"/>
@@ -21,7 +20,7 @@ I aspire to combine my passions and create immersive experiences for artists, wh
 <img alt="NetLogo" src="https://img.shields.io/badge/NetLogo-%230D1117?style=for-the-badge&logoColor=grey"/>
 </div>
 
-## In the field / Gained through experience:
+## Outside the field:
 
 <div style="display: inline_block"><br>
 <img alt="Ableton Live" src="https://img.shields.io/badge/ableton%20live-%230D1117?style=for-the-badge&logo=abletonlive&logoColor=white"/>
